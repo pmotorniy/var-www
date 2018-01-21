@@ -1,3 +1,0 @@
-<?php
-$db = mysqli_connect ("motor.vubor.com/","root","123","users");
-?>
